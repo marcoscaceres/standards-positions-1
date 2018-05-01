@@ -5,6 +5,6 @@
 * Specification or proposal URL: 
 * Caniuse.com URL (optional): 
 * Bugzilla URL (optional): 
+* Mozillians who can provide input (optional): 
 
 ### Other information
-
